@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2109,
+                    "endColumn": 47,
+                    "endOffset": 2152
+                },
+                "from": {
+                    "file": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2109,
+                        "endColumn": 47,
+                        "endOffset": 2152
+                    }
+                }
+            }
+        ]
+    }
+]

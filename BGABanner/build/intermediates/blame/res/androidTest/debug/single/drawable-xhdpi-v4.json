@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bga_banner_point_disabled.png",
+        "source": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bga_banner_point_disabled.png"
+    },
+    {
+        "merged": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bga_banner_point_enabled.png",
+        "source": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bga_banner_point_enabled.png"
+    }
+]

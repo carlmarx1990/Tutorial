@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_banner_selector_point_solid.xml",
+        "source": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_banner_selector_point_solid.xml"
+    },
+    {
+        "merged": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_banner_selector_point_hollow.xml",
+        "source": "D:\\Users\\bm7\\AndroidStudioProjects\\TreadMill\\BGABanner\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_banner_selector_point_hollow.xml"
+    }
+]
